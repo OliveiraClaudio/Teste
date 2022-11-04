@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/10/25 22:41:22.000.954,=C:\Users\kal-l\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/11/03 22:17:03.531,=C:\Users\kal-l\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/11/03 22:17:14.043,C:\Users\kal-l\OneDrive\Documentos\Embarcadero\Studio\Projects\TesteGitHub\Unit1.dfm=C:\Users\kal-l\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/11/03 22:17:14.043,C:\Users\kal-l\OneDrive\Documentos\Embarcadero\Studio\Projects\TesteGitHub\Unit1.pas=C:\Users\kal-l\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/11/03 22:17:16.430,C:\Users\kal-l\OneDrive\Documentos\Embarcadero\Studio\Projects\TesteGitHub\Project1.dproj=C:\Users\kal-l\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
